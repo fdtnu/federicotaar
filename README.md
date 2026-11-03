@@ -1,85 +1,61 @@
 <p align="center">
-  <img src="assets/2-fredrich-labs.png" alt="Fredrich Labs" width="120">
+  <img src="assets/1-banner.png" alt="Federico Taranu, Fredrich Labs" width="100%">
 </p>
-
-<h1 align="center">Federico Taranu</h1>
-
-<p align="center"><strong>I build iPhone apps, games and desktop tools under Fredrich Labs.</strong></p>
-
-<p align="center">Computer science student in Ferrara. Swift, JavaScript and Python, with Cloudflare for backends.</p>
 
 <p align="center">
-  <a href="https://federicotaranu.com">Portfolio</a> &nbsp;|&nbsp; <a href="mailto:support@federicotaranu.com">support@federicotaranu.com</a>
+  <a href="#selected-work">Selected work</a> &nbsp;&middot;&nbsp; <a href="#tech">Tech</a> &nbsp;&middot;&nbsp; <a href="#contact">Contact</a> &nbsp;&middot;&nbsp; <a href="https://federicotaranu.com">Portfolio</a>
 </p>
 
----
+I'm a computer science student in Ferrara and the developer behind Fredrich Labs, where I build iPhone apps, games and desktop tools. I work mainly in Swift, with Cloudflare and Python on the backend.
 
-## Projects
+## Selected work
 
-<table>
-  <tr>
-    <td align="center" width="90"><img src="assets/3-nova-icon.png" width="64" alt="NOVA"></td>
-    <td>
-      <h3><a href="https://github.com/federicotaar/NOVA-ios">NOVA</a> <sub>iPhone, Android build also available</sub></h3>
-      A school dashboard: homework, tests, calendar, grades, an editable timetable and widgets, plus an AI study assistant, friends, groups and chat.
-      <ul>
-        <li>Imports data from the ClasseViva school register.</li>
-        <li>Assistant runs on the user's own Groq key; location sharing is optional.</li>
-        <li>Unsigned IPA builds and versioned releases come from GitHub Actions.</li>
-      </ul>
-      <b>Status:</b> in active development, Liquid Glass UI work in progress.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><img src="assets/4-carflopper-icon.png" width="64" alt="Car Flopper"></td>
-    <td>
-      <h3><a href="https://github.com/federicotaar/car-flopper">Car Flopper</a> <sub>iPhone game</sub></h3>
-      A co-op 3D garage game. Up to 4 mechanics join a room with a code and repair the same wrecked car, then unlock the next one.
-      <ul>
-        <li>Native Swift and SceneKit, with low-poly cars drawn in code.</li>
-        <li>Real-time multiplayer on Cloudflare Workers and Durable Objects (websockets).</li>
-      </ul>
-      <b>Status:</b> in development.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><img src="assets/5-mike-icon.png" width="64" alt="Mike"></td>
-    <td>
-      <h3><a href="https://github.com/federicotaar/mike">Mike</a> <sub>iPhone app and optional backend</sub></h3>
-      A personal AI agent you chat with from your iPhone. Works with your own Groq key or a backend you run yourself.
-      <ul>
-        <li>Optional Python core built with FastAPI: chat endpoint, approvals queue, activity log, SQLite memory and a pytest suite.</li>
-        <li>Keys and tokens are kept in the iPhone Keychain. MIT licensed.</li>
-      </ul>
-      <b>Status:</b> early (v0.4.x). Planned, not built yet: an on-device model, scheduled jobs and self-improvement.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><img src="assets/6-verso-icon.png" width="64" alt="VERSO"></td>
-    <td>
-      <h3><a href="https://github.com/federicotaar/VERSO">VERSO</a> <sub>macOS, Ubuntu, Windows</sub></h3>
-      A desktop lyrics app for macOS, Ubuntu and Windows. It shows synced lyrics fullscreen for the song playing in your desktop music player, with lyrics from LRCLIB. No Spotify subscription, developer account or API keys needed.
-      <ul>
-        <li>Each lyric line lights up as it starts, with an optional lyrics page in your browser on the same computer.</li>
-        <li>Reads the system's media controls: MPRIS on Linux, System Media Transport Controls on Windows, MediaRemote on macOS.</li>
-        <li>Cross-platform builds through GitHub Actions.</li>
-      </ul>
-      <b>Latest:</b> <a href="https://github.com/federicotaar/VERSO/releases/tag/v0.1.5">v0.1.5</a>, adds macOS builds.
-    </td>
-  </tr>
-</table>
+### <img src="assets/3-nova-icon.png" width="40" height="40" align="absmiddle" alt=""> [NOVA](https://github.com/federicotaar/NOVA-ios)
+
+iPhone app with an Android build. A school dashboard for homework, tests, grades, a timetable and widgets, with an AI study assistant, friends and groups.
+
+**Status:** in active development
+
+### <img src="assets/4-carflopper-icon.png" width="40" height="40" align="absmiddle" alt=""> [Car Flopper](https://github.com/federicotaar/car-flopper)
+
+iPhone game. A co-op 3D garage game where up to 4 players repair the same wrecked car together.
+
+**Status:** in development
+
+### <img src="assets/5-mike-icon.png" width="40" height="40" align="absmiddle" alt=""> [Mike](https://github.com/federicotaar/mike)
+
+iPhone app with an optional backend. A personal AI agent you chat with from your iPhone, using your own Groq key or a backend you run yourself.
+
+**Status:** early release, v0.4.x, MIT licensed.<br>**Planned, not built yet:** an on-device model, scheduled jobs and self-improvement.
+
+### <img src="assets/6-verso-icon.png" width="40" height="40" align="absmiddle" alt=""> [VERSO](https://github.com/federicotaar/VERSO)
+
+Desktop app for macOS, Ubuntu and Windows. Shows synced lyrics fullscreen for the song playing in your music player.
+
+**Status:** released. [v0.1.5](https://github.com/federicotaar/VERSO/releases/tag/v0.1.5) adds macOS builds.
 
 ## Tech
 
-| Area | What I use |
-| --- | --- |
-| Languages | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/swift/swift-original.svg" width="18" height="18" alt=""> Swift &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="18" height="18" alt=""> JavaScript &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="18" height="18" alt=""> Python &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/cplusplus/cplusplus-original.svg" width="18" height="18" alt=""> C++ &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" width="18" height="18" alt=""> HTML &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" width="18" height="18" alt=""> CSS |
-| iOS and games | Native Swift apps, SceneKit, iOS widgets, sideloaded IPAs |
-| Backend and hosting | Cloudflare Workers, Durable Objects, Cloudflare Pages, FastAPI with SQLite |
-| Desktop | Electron, cross-platform packaging for macOS, Ubuntu and Windows |
-| Workflow | Git, GitHub Actions for builds, tests and versioned releases |
-| Learning next | TypeScript and SQL |
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/swift/swift-original.svg" width="40" height="40" alt="swift" title="swift"> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript" title="javascript"> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="40" height="40" alt="python" title="python"> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="cplusplus" title="cplusplus"> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" width="40" height="40" alt="html5" title="html5"> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" width="40" height="40" alt="css3" title="css3"> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/cloudflare/cloudflare-original.svg" width="40" height="40" alt="cloudflare" title="cloudflare"> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="fastapi" title="fastapi"> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="sqlite" title="sqlite"> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/electron/electron-original.svg" width="40" height="40" alt="electron" title="electron"> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" width="40" height="40" alt="git" title="git"> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="githubactions" title="githubactions">
+</p>
+
+**Languages:** Swift, JavaScript, Python, C++, HTML, CSS<br>
+**Platforms:** native iOS with SceneKit, Cloudflare Workers and Durable Objects, FastAPI, SQLite, Electron<br>
+**Workflow:** Git and GitHub Actions<br>
+**Learning next:** TypeScript and SQL
 
 ## Contact
 
-Want to build something together or hire me? Use the contact form on [federicotaranu.com](https://federicotaranu.com) or email [support@federicotaranu.com](mailto:support@federicotaranu.com).
+Open to collaboration and hiring enquiries. Use the contact form at [federicotaranu.com](https://federicotaranu.com) or email [support@federicotaranu.com](mailto:support@federicotaranu.com).
