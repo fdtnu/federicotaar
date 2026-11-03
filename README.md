@@ -73,7 +73,7 @@
 
 | Area | What I use |
 | --- | --- |
-| Languages | Swift, JavaScript, Python, C++, HTML, CSS |
+| Languages | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/swift/swift-original.svg" width="18" height="18" alt=""> Swift &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="18" height="18" alt=""> JavaScript &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="18" height="18" alt=""> Python &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/cplusplus/cplusplus-original.svg" width="18" height="18" alt=""> C++ &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" width="18" height="18" alt=""> HTML &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" width="18" height="18" alt=""> CSS |
 | iOS and games | Native Swift apps, SceneKit, iOS widgets, sideloaded IPAs |
 | Backend and hosting | Cloudflare Workers, Durable Objects, Cloudflare Pages, FastAPI with SQLite |
 | Desktop | Electron, cross-platform packaging for macOS, Ubuntu and Windows |
