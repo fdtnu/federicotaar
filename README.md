@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/fredrich-labs.png" alt="Fredrich Labs" width="120">
+  <img src="assets/2-fredrich-labs.png" alt="Fredrich Labs" width="120">
 </p>
 
 <h1 align="center">Federico Taranu</h1>
@@ -18,7 +18,7 @@
 
 <table>
   <tr>
-    <td align="center" width="90"><img src="assets/nova-icon.png" width="64" alt="NOVA"></td>
+    <td align="center" width="90"><img src="assets/3-nova-icon.png" width="64" alt="NOVA"></td>
     <td>
       <h3><a href="https://github.com/federicotaar/NOVA-ios">NOVA</a> <sub>iPhone, Android build also available</sub></h3>
       A school dashboard: homework, tests, calendar, grades, an editable timetable and widgets, plus an AI study assistant, friends, groups and chat.
@@ -31,7 +31,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="assets/carflopper-icon.png" width="64" alt="Car Flopper"></td>
+    <td align="center" width="90"><img src="assets/4-carflopper-icon.png" width="64" alt="Car Flopper"></td>
     <td>
       <h3><a href="https://github.com/federicotaar/car-flopper">Car Flopper</a> <sub>iPhone game</sub></h3>
       A co-op 3D garage game. Up to 4 mechanics join a room with a code and repair the same wrecked car, then unlock the next one.
@@ -43,7 +43,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="assets/mike-icon.png" width="64" alt="Mike"></td>
+    <td align="center" width="90"><img src="assets/5-mike-icon.png" width="64" alt="Mike"></td>
     <td>
       <h3><a href="https://github.com/federicotaar/mike">Mike</a> <sub>iPhone app and optional backend</sub></h3>
       A personal AI agent you chat with from your iPhone. Works with your own Groq key or a backend you run yourself.
@@ -55,7 +55,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="assets/verso-icon.png" width="64" alt="VERSO"></td>
+    <td align="center" width="90"><img src="assets/6-verso-icon.png" width="64" alt="VERSO"></td>
     <td>
       <h3><a href="https://github.com/federicotaar/VERSO">VERSO</a> <sub>macOS, Ubuntu, Windows</sub></h3>
       A desktop lyrics app for macOS, Ubuntu and Windows. It shows synced lyrics fullscreen for the song playing in your desktop music player, with lyrics from LRCLIB. No Spotify subscription, developer account or API keys needed.
