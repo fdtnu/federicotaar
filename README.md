@@ -10,29 +10,29 @@ I'm a computer science student in Ferrara and the developer behind Fredrich Labs
 
 ## Selected work
 
-### <img src="assets/3-nova-icon.png" width="40" height="40" align="absmiddle" alt=""> [NOVA](https://github.com/fdtnu/NOVA-ios)
+### <img src="assets/3-nova-icon.png" width="40" height="40" align="absmiddle" alt=""> [NOVA](https://github.com/federicotaar/NOVA-ios)
 
 iPhone app with an Android build. A school dashboard for homework, tests, grades, a timetable and widgets, with an AI study assistant, friends and groups.
 
 **Status:** in active development
 
-### <img src="assets/4-carflopper-icon.png" width="40" height="40" align="absmiddle" alt=""> [Car Flopper](https://github.com/fdtnu/car-flopper)
+### <img src="assets/4-carflopper-icon.png" width="40" height="40" align="absmiddle" alt=""> [Car Flopper](https://github.com/federicotaar/car-flopper)
 
 iPhone game. A co-op 3D garage game where up to 4 players repair the same wrecked car together.
 
 **Status:** in development
 
-### <img src="assets/5-mike-icon.png" width="40" height="40" align="absmiddle" alt=""> [Mike](https://github.com/fdtnu/mike)
+### <img src="assets/5-mike-icon.png" width="40" height="40" align="absmiddle" alt=""> [Mike](https://github.com/federicotaar/mike)
 
 iPhone app with an optional backend. A personal AI agent you chat with from your iPhone, using your own Groq key or a backend you run yourself.
 
 **Status:** early release, v0.4.x, MIT licensed.<br>**Planned, not built yet:** an on-device model, scheduled jobs and self-improvement.
 
-### <img src="assets/6-verso-icon.png" width="40" height="40" align="absmiddle" alt=""> [VERSO](https://github.com/fdtnu/VERSO)
+### <img src="assets/6-verso-icon.png" width="40" height="40" align="absmiddle" alt=""> [VERSO](https://github.com/federicotaar/VERSO)
 
 Desktop app for macOS, Ubuntu and Windows. Shows synced lyrics fullscreen for the song playing in your music player.
 
-**Status:** released. [v0.1.5](https://github.com/fdtnu/VERSO/releases/tag/v0.1.5) adds macOS builds.
+**Status:** released. [v0.1.5](https://github.com/federicotaar/VERSO/releases/tag/v0.1.5) adds macOS builds.
 
 ## Tech
 
