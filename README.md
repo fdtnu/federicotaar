@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/1-banner.png" alt="Federico Taranu, Fredrich Labs" width="100%">
+  <img src="assets/1-banner-animated.svg" alt="Federico Taranu, Fredrich Labs" width="100%">
 </p>
 
 <p align="center">
