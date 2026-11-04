@@ -8,33 +8,31 @@
 
 I'm a computer science student in Ferrara and the developer behind Fredrich Labs, where I build iPhone apps, games and desktop tools. I work mainly in Swift, with Cloudflare and Python on the backend.
 
-## Selected work
+<a name="selected-work"></a>
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/h-work-m.svg">
+  <img src="assets/h-work.svg" alt="Selected work" width="100%">
+</picture>
 
-### <img src="assets/3-nova-icon.png" width="40" height="40" align="absmiddle" alt=""> [NOVA](https://github.com/federicotaar/NOVA-ios)
+<a href="https://github.com/federicotaar/NOVA-ios"><picture><source media="(max-width: 640px)" srcset="assets/card-nova-m.svg"><img src="assets/card-nova.svg" alt="NOVA - school dashboard app for iPhone and Android" width="100%"></picture></a>
 
-iPhone app with an Android build. A school dashboard for homework, tests, grades, a timetable and widgets, with an AI study assistant, friends and groups.
+<a href="https://github.com/federicotaar/car-flopper"><picture><source media="(max-width: 640px)" srcset="assets/card-carflopper-m.svg"><img src="assets/card-carflopper.svg" alt="Car Flopper - co-op 3D garage game for iPhone" width="100%"></picture></a>
 
-**Status:** in active development
+<a href="https://github.com/federicotaar/mike"><picture><source media="(max-width: 640px)" srcset="assets/card-mike-m.svg"><img src="assets/card-mike.svg" alt="Mike - personal AI agent for iPhone" width="100%"></picture></a>
 
-### <img src="assets/4-carflopper-icon.png" width="40" height="40" align="absmiddle" alt=""> [Car Flopper](https://github.com/federicotaar/car-flopper)
+**Planned, not built yet:** an on-device model, scheduled jobs and self-improvement.
 
-iPhone game. A co-op 3D garage game where up to 4 players repair the same wrecked car together.
+<a href="https://github.com/federicotaar/VERSO"><picture><source media="(max-width: 640px)" srcset="assets/card-verso-m.svg"><img src="assets/card-verso.svg" alt="VERSO - synced lyrics for macOS, Ubuntu and Windows" width="100%"></picture></a>
 
-**Status:** in development
+[v0.1.6 release notes](https://github.com/federicotaar/VERSO/releases/tag/v0.1.6) (Mac + PC).
 
-### <img src="assets/5-mike-icon.png" width="40" height="40" align="absmiddle" alt=""> [Mike](https://github.com/federicotaar/mike)
+<img src="assets/divider.svg" alt="" width="100%">
 
-iPhone app with an optional backend. A personal AI agent you chat with from your iPhone, using your own Groq key or a backend you run yourself.
-
-**Status:** early release, v0.4.x, MIT licensed.<br>**Planned, not built yet:** an on-device model, scheduled jobs and self-improvement.
-
-### <img src="assets/6-verso-icon.png" width="40" height="40" align="absmiddle" alt=""> [VERSO](https://github.com/federicotaar/VERSO)
-
-Desktop app for macOS, Ubuntu and Windows. Shows synced lyrics fullscreen for the song playing in your music player.
-
-**Status:** released. [v0.1.5](https://github.com/federicotaar/VERSO/releases/tag/v0.1.5) adds macOS builds.
-
-## Tech
+<a name="tech"></a>
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/h-tech-m.svg">
+  <img src="assets/h-tech.svg" alt="Tech" width="100%">
+</picture>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/swift/swift-original.svg" width="40" height="40" alt="swift" title="swift"> &nbsp;
@@ -56,6 +54,14 @@ Desktop app for macOS, Ubuntu and Windows. Shows synced lyrics fullscreen for th
 **Workflow:** Git and GitHub Actions<br>
 **Learning next:** TypeScript and SQL
 
-## Contact
+<img src="assets/divider.svg" alt="" width="100%">
+
+<a name="contact"></a>
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/h-contact-m.svg">
+  <img src="assets/h-contact.svg" alt="Contact" width="100%">
+</picture>
 
 Open to collaboration and hiring enquiries. Use the contact form at [federicotaranu.com](https://federicotaranu.com) or email [support@federicotaranu.com](mailto:support@federicotaranu.com).
+
+<img src="assets/footer.svg" alt="Fredrich Labs" width="100%">
