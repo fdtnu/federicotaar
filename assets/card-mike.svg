@@ -23,7 +23,7 @@
   <text class="t name" x="140" y="70">Mike</text>
   <text class="t desc" x="140" y="102">Personal AI agent you chat with from your iPhone,</text>
   <text class="t desc" x="140" y="126">using your own Groq key or a self-hosted backend</text>
-  <rect x="594" y="26" width="262" height="30" rx="15" fill="none" stroke="#C4F446" stroke-opacity="0.55"/>
-  <text class="t pill" x="725" y="46" text-anchor="middle">EARLY RELEASE &#183; v0.4.3</text>
+  <rect x="749" y="26" width="107" height="30" rx="15" fill="none" stroke="#C4F446" stroke-opacity="0.55"/>
+  <text class="t pill" x="802" y="46" text-anchor="middle">COMPLETED</text>
   <text class="t repo" x="852" y="146" text-anchor="end">federicotaar/mike &#8599;</text>
 </svg>
