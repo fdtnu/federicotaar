@@ -23,7 +23,7 @@
   <text class="t name" x="140" y="70">VERSO</text>
   <text class="t desc" x="140" y="102">Synced fullscreen lyrics for the song playing</text>
   <text class="t desc" x="140" y="126">in your music player. For macOS, Ubuntu and Windows</text>
-  <rect x="637" y="26" width="219" height="30" rx="15" fill="none" stroke="#C4F446" stroke-opacity="0.55"/>
-  <text class="t pill" x="746" y="46" text-anchor="middle">RELEASED &#183; v0.1.6</text>
+  <rect x="749" y="26" width="107" height="30" rx="15" fill="none" stroke="#C4F446" stroke-opacity="0.55"/>
+  <text class="t pill" x="802" y="46" text-anchor="middle">COMPLETED</text>
   <text class="t repo" x="852" y="146" text-anchor="end">federicotaar/VERSO &#8599;</text>
 </svg>
