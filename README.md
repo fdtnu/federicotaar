@@ -20,11 +20,11 @@ I'm a computer science student in Ferrara and the developer behind Fredrich Labs
 
 <a href="https://github.com/federicotaar/mike"><picture><source media="(max-width: 640px)" srcset="assets/card-mike-m.svg"><img src="assets/card-mike.svg" alt="Mike - personal AI agent for iPhone" width="100%"></picture></a>
 
-**Planned, not built yet:** an on-device model, scheduled jobs and self-improvement.
+**Finished:** iPhone app plus desktop preview for Ubuntu, Windows and macOS - [all releases](https://github.com/federicotaar/mike/releases).
 
 <a href="https://github.com/federicotaar/VERSO"><picture><source media="(max-width: 640px)" srcset="assets/card-verso-m.svg"><img src="assets/card-verso.svg" alt="VERSO - synced lyrics for macOS, Ubuntu and Windows" width="100%"></picture></a>
 
-[v0.1.6 release notes](https://github.com/federicotaar/VERSO/releases/tag/v0.1.6) (Mac + PC).
+**Finished:** [v0.1.7 release notes](https://github.com/federicotaar/VERSO/releases/tag/v0.1.7) (Mac + PC).
 
 <img src="assets/divider.svg" alt="" width="100%">
 
