@@ -26,7 +26,7 @@ I'm a computer science student in Ferrara and the developer behind Fredrich Labs
 
 **Finished:** [v0.1.7 release notes](https://github.com/federicotaar/VERSO/releases/tag/v0.1.7) (Mac + PC).
 
-<picture><source media="(max-width: 640px)" srcset="assets/card-atlas-m.svg"><img src="assets/card-atlas.svg" alt="ATLAS - personal intelligence system with verifiable memory, in development" width="100%"></picture>
+<picture><source media="(max-width: 640px)" srcset="assets/card-atlas-m.svg?v=2"><img src="assets/card-atlas.svg?v=2" alt="ATLAS - personal intelligence system with verifiable memory, in development" width="100%"></picture>
 
 **In development:** memory with verifiable sources, agents and predictions - phases 0-3 of 6 implemented and CI green, private repo for now.
 
