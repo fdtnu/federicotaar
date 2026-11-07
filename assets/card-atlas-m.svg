@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="310" viewBox="0 0 640 310">
+  <style>
+    .t { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+    .name { font-size: 52px; font-weight: 700; fill: #F4F1E9; }
+    .desc { font-size: 24px; fill: #A7AEBB; }
+    .pill { font-size: 19px; font-weight: 600; fill: #C4F446; letter-spacing: 2px; }
+    .repo { font-size: 18px; fill: #6B7280; }
+  </style>
+  <defs><pattern id="dots" width="48" height="48" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.5" fill="#C4F446" opacity="0.05"/></pattern></defs>
+  <rect width="640" height="310" rx="16" fill="#111316"/>
+  <rect width="640" height="310" fill="url(#dots)"/>
+  <g transform="translate(28,26)">
+    <rect width="110" height="110" rx="24.6" fill="#000"/>
+    <g transform="rotate(-25 55 55)">
+      <ellipse cx="55" cy="55" rx="38.7" ry="14.2" fill="none" stroke="#fff" stroke-width="2.5"/>
+    </g>
+    <text x="55" y="57.6" font-family="Liberation Sans, Helvetica, Arial, sans-serif" font-weight="bold" font-size="59.5" fill="#fff" text-anchor="middle" dominant-baseline="central" stroke="#000" stroke-width="4" paint-order="stroke">A</text>
+    <circle cx="77.2" cy="43.4" r="3.9" fill="#C4F446"/>
+  </g>
+  <text class="t name" x="156" y="96">ATLAS</text>
+  <text class="t desc" x="28" y="158">Personal intelligence system: memory</text>
+  <text class="t desc" x="28" y="190">with verifiable sources, agents and</text>
+  <text class="t desc" x="28" y="222">predictions - local, zero cost</text>
+  <rect x="406" y="252" width="210" height="38" rx="19" fill="none" stroke="#C4F446" stroke-opacity="0.55"/>
+  <text class="t pill" x="511" y="277" text-anchor="middle">IN DEVELOPMENT</text>
+  <text class="t repo" x="28" y="284">federicotaar/atlas (private)</text>
+</svg>
